@@ -1,13 +1,14 @@
-Project title : Student Directory 2025
+# Student Directory Portal
+A React app showcasing a student directory with reusable components, nested lists, and conditional rendering, built with Vite.
 
-GitHub Repository Link : https://github.com/ShadaAminaDK/student-directory.git
+## Components
+- StudentCard: Reusable component displaying student information with nested skill lists and status badges
 
-Live Deployment Link : https://chimerical-fenglisu-7298ef.netlify.app/
+## Links
+- **GitHub Repository:** https://github.com/ShadaAminaDK/student-directory.git
+- **Live Website:** https://chimerical-fenglisu-7298ef.netlify.app/
 
-StudentCard Component:
-A reusable component that accepts props such as name, rollNumber, course, email, skills array, and isActive. It displays all information, maps through the skills array, and shows a conditional Active/Inactive status badge.
-
-### Run Locally
-Clone the repository
-Run npm install
-Run npm run dev
+## Run Locally
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev`
